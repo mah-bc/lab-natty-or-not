@@ -20,23 +20,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Financiamentos Imobiliários: A Importância para a Sociedade Brasileira
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 8 páginas explora a importância dos financiamentos imobiliários para a sociedade brasileira.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização/estruturação;
+IA Generativa Leonardo AI para criar a arte visual do e-book;
+Ferramenta Canvas e sua IA para roteirização, criação de conteúdo, edição e montagem de e-book.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para estruturação do conteúdo. Enquanto o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. A utilização do Canvas foi primodial para roteirização, criação de conteúdo, edição e montagem de e-book, tendo em vista a sua estética e base de dados atuais. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo enriquecedor e de interesse nacional, demonstrando como os bancos públicos podem impactar positivamente a sociedade brasileira. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar este e-book foi uma experiência necessária para conhecer o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos e áreas de conhecimento.
+
+## Link do e-book criado
+https://www.canva.com/design/DAGb_1QUSUo/-LSdK7rQypAv-z9uPQWp7A/edit?utm_content=DAGb_1QUSUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ```
+
 
 ### Exemplos e Insigths
 
@@ -44,8 +50,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
+## Link do e-book
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+- https://www.canva.com/design/DAGb_1QUSUo/-LSdK7rQypAv-z9uPQWp7A/edit?utm_content=DAGb_1QUSUo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
